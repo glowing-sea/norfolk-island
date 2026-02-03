@@ -10,7 +10,9 @@
 
 **Course Name**: [COMP8410](https://programsandcourses.anu.edu.au/2025/course/comp8410) – Data Mining
 
-**Course Outline**: Students in this course were assigned the Norfolk Island Penal Colony dataset. Following that, students were required to independently develop their own research questions and conduct the research using at least three distinct data mining techniques.
+**Course Outline**: 
+
+- Students in this course were assigned the Norfolk Island Penal Colony dataset. Following that, students were required to independently develop their own research questions and conduct the research using at least three distinct data mining techniques.
 
 **Course Final Mark**: 78 / 100
 
