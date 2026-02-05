@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> If any links or files require a password, please use my **UTAS Application Number**.
+
 ## Abstract
 
 **Title**: Exploring the Effect of the Characteristics of Convicts in Norfolk Island Penal Colony on Their Sentence Length
@@ -12,13 +15,13 @@
 
 **Course Outline**: 
 
-- Students in this course were assigned the Norfolk Island Penal Colony dataset. Following that, students were required to independently develop their own research questions and conduct the research using at least three distinct data mining techniques.
+- Students in this course were assigned the Norfolk Island Penal Colony dataset. Following that, students were required to independently develop their own research questions and conduct the research using at least three distinct data mining techniques. ([reference](https://1drv.ms/f/c/4f49bb445ba8ff14/IgC-wOsVFEZoSpTf3QKQgPQlATR43PxNM1Op5wL73sWP8w8?e=gFK3oo))
 
 **Course Final Mark**: 78 / 100
 
 **Project Weight**: [29%](https://programsandcourses.anu.edu.au/2025/course/COMP8410/First%20Semester/3820) of COMP8610
 
-**Project Mark**: 83 / 100
+**Project Mark**: [83](https://1drv.ms/f/c/4f49bb445ba8ff14/IgC-wOsVFEZoSpTf3QKQgPQlATR43PxNM1Op5wL73sWP8w8?e=gFK3oo) / 100
 
 **Deliverables**: [report](https://github.com/glowing-sea/norfolk-island/blob/main/deliberables/report.pdf), [code](https://github.com/glowing-sea/norfolk-island)
 
